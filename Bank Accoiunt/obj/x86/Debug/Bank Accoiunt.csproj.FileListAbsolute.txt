@@ -1,0 +1,7 @@
+c:\users\open\documents\visual studio 2010\Projects\Bank Accoiunt\Bank Accoiunt\bin\Debug\Bank Accoiunt.exe
+c:\users\open\documents\visual studio 2010\Projects\Bank Accoiunt\Bank Accoiunt\bin\Debug\Bank Accoiunt.pdb
+c:\users\open\documents\visual studio 2010\Projects\Bank Accoiunt\Bank Accoiunt\obj\x86\Debug\Bank Accoiunt.exe
+c:\users\open\documents\visual studio 2010\Projects\Bank Accoiunt\Bank Accoiunt\obj\x86\Debug\Bank Accoiunt.pdb
+C:\Users\Open\Documents\Visual Studio 2010\Projects\Bank Accoiunt\Bank Accoiunt\obj\x86\Debug\Bank Accoiunt.csprojResolveAssemblyReference.cache
+K:\Bank Accoiunt\Bank Accoiunt\obj\x86\Debug\Bank Accoiunt.exe
+K:\Bank Accoiunt\Bank Accoiunt\obj\x86\Debug\Bank Accoiunt.pdb
